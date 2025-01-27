@@ -1,0 +1,2 @@
+# USING-A-TWO-DIMENSIONAL-BINARY-MATRIX-TO-DETERMINE-POSITION-BY-MARKING-WITH-A-LIGHT-POINT
+This project detects positions on a 2D binary matrix using a light point (e.g., laser pointer). It processes camera input, applies perspective correction, creates a binary grid, and maps the light's position to the matrix. Features include real-time detection, customizable grids, and visualization of the mapped cell.
