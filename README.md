@@ -9,7 +9,9 @@ This project uses Python and OpenCV to detect a laser pointer in a live video fe
 - **Visualization**: Displays the original frame, binary image, warped perspective, and extracted matrix.
 
 ## Demonstration
-Watch the project in action on [YouTube](https://youtu.be/jqcH8mrlLNA).
+Watch the project in action on YouTube:
+- [Demo Video 1](https://youtu.be/0okNEhtQrsg)
+- [Demo Video 2](https://youtu.be/8X0mB1yMntU)
 
 ## How It Works
 1. **Laser Detection**: The program detects the laser pointer by applying an HSV mask and calculating the centroid of the detected region.
